@@ -1,0 +1,8 @@
+{
+  "appId": "com.pdfeditor.offline",
+  "appName": "PDF Editor Offline",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  }
+}
